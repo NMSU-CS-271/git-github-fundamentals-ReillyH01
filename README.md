@@ -1,10 +1,10 @@
-#I guess I am learning this.
+# I guess I am learning this.
 
-##GitHub markdown stuff seems to make sense
+## GitHub markdown stuff seems to make sense
 - why not just call it a readme file
 - why not just use html
 
-##Check out how cool this 'variable' I inserted.
+## Check out how cool this 'variable' I inserted.
 
 [go here if you want](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
