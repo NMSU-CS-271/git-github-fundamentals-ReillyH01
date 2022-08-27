@@ -4,9 +4,9 @@
 - why not just call it a readme file
 - why not just use html
 
-##Check out how cool this `variable` I inserted.
+## Check out how cool this `variable` I inserted.
 
-##
+## 
 
 # Helpful links
 
